@@ -1,4 +1,4 @@
-# Learn.Py-Task1
+# Learn.Py
 Learn.Py Taask One By JYOTHINATh
 Event Name : Learn Py
 Task No.: 1
